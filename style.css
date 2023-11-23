@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#canvas {
+  /* si non intialisé en hml */
+  height: 320px;
+  width: 480px;
+  /* Fin si non intialisé en hml */
+  background: #eee;
+  display: block;
+  margin: 0 auto;
+}
